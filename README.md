@@ -1,4 +1,4 @@
-# Escavador - API de Extração de Elementos HTML
+# <img src="https://github.com/user-attachments/assets/891264a7-2cc0-4d5d-ac5c-b1f188ee24d6" alt="escavador" width="100" style="vertical-align: middle;" /> Escavador - API de Extração de Elementos HTML
 
 Este projeto oferece uma API simples construída com Flask para extrair todos os elementos HTML de uma página web fornecida. Ele retorna os nomes das tags, IDs e textos de todos os elementos encontrados na página.
 
